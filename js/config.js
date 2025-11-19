@@ -1,7 +1,7 @@
 // Configuration
 const CONFIG = {
-    API_URL: 'https://exq-frontend.vercel.app/api',
-    SOCKET_URL: 'https://exq-frontend.vercel.app',
+    API_URL: 'https://exq-backend.vercel.app/api',
+    SOCKET_URL: 'https://exq-backend.vercel.app',
     RAZORPAY_KEY_ID: 'rzp_test_RhQO0T93UG4LK1'
 };
 
