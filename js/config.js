@@ -1,7 +1,7 @@
 // Configuration
 const CONFIG = {
-    API_URL: 'http://localhost:5000/api',
-    SOCKET_URL: 'http://localhost:5000',
+    API_URL: 'https://exq-frontend.vercel.app/api',
+    SOCKET_URL: 'https://exq-frontend.vercel.app',
     RAZORPAY_KEY_ID: 'rzp_test_YOUR_KEY_ID' // Replace with your Razorpay key
 };
 
