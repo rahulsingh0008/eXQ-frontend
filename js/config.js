@@ -2,7 +2,7 @@
 const CONFIG = {
     API_URL: 'https://exq-frontend.vercel.app/api',
     SOCKET_URL: 'https://exq-frontend.vercel.app',
-    RAZORPAY_KEY_ID: 'rzp_test_YOUR_KEY_ID' // Replace with your Razorpay key
+    RAZORPAY_KEY_ID: 'rzp_test_RhQO0T93UG4LK1'
 };
 
 // Global state
